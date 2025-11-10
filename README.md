@@ -1,1 +1,1 @@
-# product-reccomendation-system
+# product-recommendation-system
